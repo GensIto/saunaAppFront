@@ -1,0 +1,10 @@
+build/
+public/
+**/coverage/
+**/node_modules/
+**/*.min.js
+*.config.js
+*.config.ts
+vitest.setup.ts
+cypress
+vite-env.d.ts
